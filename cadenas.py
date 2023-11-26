@@ -32,7 +32,7 @@ c = "the"
 d = "better"
 e = "languaje"
 union = " ".join([a,b,c,d,e])
-print(union)
+#print(union)
 
 
 texto = "cosas que remplazar"
